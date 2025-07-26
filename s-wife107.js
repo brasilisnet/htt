@@ -1,0 +1,7 @@
+var images = [],
+index = 0;
+images[0] = "<p><a target='_blank' href='https://s.shopee.com.br/9pR9GLzVpC' title='Produtos Eroticos Na Shopee'><img border='0' src='https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhwS9Layndj57t-_uZYezimT1knbWgH3Y62DW8oFZW1JitC3e6d1mcRixlbOmAqxestkQThWCqYzW1M_0W-65bis1WZdJT6yHI9OayxuM4Al1set1TKxYVCfc91z8Qxw0GHIIzmPE5mG5ePILq2J_KlBoHiTJ1WQa1W6BN8VXQoT-_gOtaDPxozNzlGvxs/s1024/slut-wife-319.webp' width='100%' height='auto'></a></p>";
+images[0] = "<p><a target='_blank' href='https://s.shopee.com.br/9pR9GLzVpC' title='Produtos Eroticos Na Shopee'><img border='0' src='https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEikX8DZ-DA5FiqBb-_0KuvmBoCiCy8eUt_LlMhDHP7IymIjMMMKRgkDDJ_XZIIcO8NqVMmImIIO3vvPSJOwkYThT8nCze808ZhWTd2UGpeSJUmWErkiC8Ual6MwBRLmRWEWN9cgwfA8DrZP5o6vbdMcMioizh7tH-pKCtQdflw_8woWItNYP5PaGMu3eBA/s1024/slut-wife-320.webp' width='100%' height='auto'></a></p>";
+images[0] = "<p><a target='_blank' href='https://s.shopee.com.br/9pR9GLzVpC' title='Produtos Eroticos Na Shopee'><img border='0' src='https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjuAAH0kaHufOJ0JRWlo8Ux_8QcS6CTdf11acPSbEX32qTnaKxlucdsdV-w11WqQLV1Wg5ZWVuuybKV5-yNuhLSArLI0G52QUf31SYlxa4dw5wdCtoYHRJuqQds1RxRqmDYuY0gNy4EGTEnW6klZ1KPcWxh-M5pDXi7fZpm8L3vI0Jra1G-1Ikhykk9wbw/s1024/slut-wife-321.webp' width='100%' height='auto'></a></p>";
+index = Math.floor(Math.random() * images.length);
+document.write(images[index]);
