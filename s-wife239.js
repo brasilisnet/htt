@@ -1,0 +1,7 @@
+var images = [],
+index = 0;
+images[0] = "<a target='_blank' href='https://shope.ee/3VDNHWRl8C' class='screenshot' rel=''><img class='top'  border='0' src='https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhrD_sQfKP327c22dP5jkqLw_-rsxjtZUQjjsFxJ6gumZSpHzLXZT1L8UejwYsr7td2B5AQS95T45tGi1N1Cn4ZAQ2HWmlq1xFECLIosNjRyoUW70IzNIaRaIWnMo3qgxN1IDhOi1aBcRz_SIpITZX6myrYzHo7W_w6n0UcyfD89IdMcc_0ENwSTI7yZLw/s1024/slut-wife-715.webp' width='100%' height='auto'></a>";
+images[1] = "<a target='_blank' href='https://shope.ee/3VDNHWRl8C' class='screenshot' rel=''><img class='top'  border='0' src='https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgqS1mazOscR9HUW6MNoRpmgqIh5H2sF9cyvvI19K53QRoP1ca-_nrZLRfXBDs1yHAUJponyaqyEuLLYPbwu2NE9nixA5YOaIGaVsF7wr8VVh33WNvMyF2jG764QLUikk0UqndHa5c5RnyH0CRDgaec7kCFdou_T4Xykx0Fkp3umRXLRqrCjZzOVQsckdg/s1024/slut-wife-716.webp' width='100%' height='auto'></a>";
+images[2] = "<a target='_blank' href='https://shope.ee/3VDNHWRl8C' class='screenshot' rel=''><img class='top'  border='0' src='https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhuIQWA7n3SmAttmsQrWPbYdUurEF1k-rqBEx677qv8qFxgZ6v4C-65OWtTjQPjeO7EDZMGkctb9V57Fo5jloVO_1tv-WH6_M-Qf_-XB0nc8P_jjUnPEp2uj2hnLJr8l0aROdYFMAk9T34BO31Q1nr13WwculLGQFgdT_TfqFrONrGGMjBIfaUzNLz7NLw/s1024/slut-wife-717.webp' width='100%' height='auto'></a>";
+index = Math.floor(Math.random() * images.length);
+document.write(images[index]);
